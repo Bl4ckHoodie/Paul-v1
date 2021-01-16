@@ -1,0 +1,5 @@
+alarmtime: 08:00
+setalarm: true
+currentloc: umtata
+emailusr: letscuddlewithme@gmail.com
+emailpass: Cuddl3WithM3
